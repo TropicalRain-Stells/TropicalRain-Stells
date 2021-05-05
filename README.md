@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stella
-- 👀 I’m interested in anything to do with astronomy. 
+- 👀 I’m interested in anything to do with astronomy and using computer programs to learn more about the universe that we live in.
 - 🌱 I’m currently learning Python, Java and web development. 
 - 📫 You can reach me by adding me on fb: https://www.facebook.com/stellaseow99/ or email me at stella.syh.5880@gmail.com
 
